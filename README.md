@@ -1,2 +1,2 @@
 # RFZO-API
-link to website: https://listecekanja.herokuapp.com/
+link to web app: https://listecekanja.herokuapp.com/
